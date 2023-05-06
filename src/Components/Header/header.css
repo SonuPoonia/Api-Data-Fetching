@@ -1,0 +1,22 @@
+#header {
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+  background-color: #34495e;
+}
+
+a {
+  font-size: 25px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.get_users_btn {
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 12px 15px;
+  border-radius: 10px;
+}

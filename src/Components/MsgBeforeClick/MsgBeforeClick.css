@@ -1,0 +1,10 @@
+#msg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 70vh;
+  font-size: 25px;
+  line-height: 40px;
+  padding: 0px 5px ;
+}
